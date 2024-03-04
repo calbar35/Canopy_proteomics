@@ -1,0 +1,1 @@
+pip install git+https://github.com/SomaLogic/canopy.git#egg=canopy
